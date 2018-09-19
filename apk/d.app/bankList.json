@@ -1,0 +1,158 @@
+{
+    "showFirst": [
+                  {
+                  "number": "1",
+                  "name": "BANCO DO BRASIL S.A."
+                  },
+                  {
+                  "number": "237",
+                  "name": "BANCO BRADESCO S.A."
+                  },
+                  {
+                  "number": "341",
+                  "name": "ITAÚ UNIBANCO S.A."
+                  },
+                  {
+                  "number": "33",
+                  "name": "BANCO SANTANDER (BRASIL) S.A."
+                  },
+                  {
+                  "number": "212",
+                  "name": "BANCO ORIGINAL S.A."
+                  },
+                  {
+                  "number": "745",
+                  "name": "BANCO CITIBANK S.A."
+                  },
+                  {
+                  "number": "735",
+                  "name": "BANCO NEON S.A."
+                  }
+                  ],
+    "otherBanks": [
+                   {
+                   "number": "3",
+                   "name": "BANCO DA AMAZONIA S.A."
+                   },
+                   {
+                   "number": "4",
+                   "name": "BANCO DO NORDESTE DO BRASIL S.A."
+                   },
+                   {
+                   "number": "21",
+                   "name": "BANCO DO ESTADO DO ESPÍRITO SANTO S.A."
+                   },
+                   {
+                   "number": "37",
+                   "name": "BANPARA-BANCO DO ESTADO DO PARÁ S.A."
+                   },
+                   {
+                   "number": "41",
+                   "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A."
+                   },
+                   {
+                   "number": "47",
+                   "name": "BANCO BANESE"
+                   },
+                   {
+                   "number": "63",
+                   "name": "BANCO IBI S.A. BANCO MÚLTIPLO"
+                   },
+                   {
+                   "number": "70",
+                   "name": "BANCO DE BRASILIA S.A."
+                   },
+                   {
+                   "number": "74",
+                   "name": "BANCO J. SAFRA S.A."
+                   },
+                   {
+                   "number": "77",
+                   "name": "BANCO INTERMEDIUM S.A."
+                   },
+                   {
+                   "number": "104",
+                   "name": "CAIXA ECONOMICA FEDERAL"
+                   },
+                   {
+                   "number": "136",
+                   "name": "UNICRED"
+                   },
+                   {
+                   "number": "218",
+                   "name": "BANCO BONSUCESSO S.A."
+                   },
+                   {
+                   "number": "224",
+                   "name": "BANCO FIBRA S.A."
+                   },
+                   {
+                   "number": "229",
+                   "name": "BANCO CRUZEIRO S.A."
+                   },
+                   {
+                   "number": "230",
+                   "name": "UNICARD BANCO MÚLTIPLO S.A."
+                   },
+                   {
+                   "number": "254",
+                   "name": "PARANA BANCO S.A."
+                   },
+                   {
+                   "number": "300",
+                   "name": "BANCO DE LA NACION ARGENTINA"
+                   },
+                   {
+                   "number": "389",
+                   "name": "BANCO MERCANTIL DO BRASIL S.A."
+                   },
+                   {
+                   "number": "399",
+                   "name": "HSBC BANK BRASIL S.A. BANCO MULTIPLO"
+                   },
+                   {
+                   "number": "409",
+                   "name": "UNIBANCO UNIAO BANCO BRASILEIROS S.A."
+                   },
+                   {
+                   "number": "422",
+                   "name": "BANCO SAFRA S.A."
+                   },
+                   {
+                   "number": "456",
+                   "name": "BANCO DE TOKYO MITSUBISHI BR S.A."
+                   },
+                   {
+                   "number": "464",
+                   "name": "BANCO SUMITOMO BRASILEIRO S.A."
+                   },
+                   {
+                   "number": "623",
+                   "name": "BANCO PANAMERICANO S.A."
+                   },
+                   {
+                   "number": "633",
+                   "name": "BANCO RENDIMENTO S.A."
+                   },
+                   {
+                   "number": "637",
+                   "name": "BANCO SOFISA"
+                   },
+                   {
+                   "number": "707",
+                   "name": "BANCO DAYCOVAL S.A."
+                   },
+                   {
+                   "number": "748",
+                   "name": "BANCO COOPERATIVO SICREDI S.A."
+                   },
+                   {
+                   "number": "755",
+                   "name": "BANK OF AMERICA MERRILL LYNCH BANCO MÚLTIPLO S.A."
+                   },
+                   {
+                   "number": "756",
+                   "name": "BANCO COOPERATIVA DO BRASIL"
+                   }
+                   ]
+}
