@@ -1,12 +1,15 @@
 
 Android Studio
+    - https://developer.android.com/studio/
 
+
+apt-get install ruby-dev
 
 sudo apt install ruby-bundler
     - Bundler (Gerenciador de dependencias para ruby)
 
 sudo apt install npm 
-    - npm --version (Node JS Package Manager)
+    - npm --version (Node JS Package Manager
 
 npm install -g appium
     - appium (inicia servidor appium)
@@ -17,13 +20,27 @@ npm install wd
 npm install -g appium-doctor
     - appium-doctor --android (verifica se todas dependencias do appium estao ok)
 
+cucumber
+    - sudo apt install cucumber
+
 
 Configurar:
     - JAVA_HOME
+         export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+         export  PATH="$PATH:$JAVA_HOME/bin"
     - ANDROID_HOME
+         export ANDROID_HOME=$HOME/Android/Sdk
+         export PATH=$PATH:$ANDROID_HOME/tools
 
     - Capabilities
         Arc setup android  # cria um txt. para android (Capabilities para Android)
+]
 
+Se der erro no Android:
+    - Failed to load module "canberra-gtk-module"
+        1.  $ sudo apt-get install --reinstall libcanberra-gtk-module
 
-
+    - /dev/kvm permission denied.
+        1.  $ sudo apt install qemu-kvm
+        2.  $ sudo adduser <Replace with username> kvm
+        3.  $sudo chown cgoto /dev/kvm
