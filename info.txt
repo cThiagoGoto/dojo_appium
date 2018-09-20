@@ -1,0 +1,29 @@
+
+Android Studio
+
+
+sudo apt install ruby-bundler
+    - Bundler (Gerenciador de dependencias para ruby)
+
+sudo apt install npm 
+    - npm --version (Node JS Package Manager)
+
+npm install -g appium
+    - appium (inicia servidor appium)
+
+npm install wd 
+    - wd (client appium)
+
+npm install -g appium-doctor
+    - appium-doctor --android (verifica se todas dependencias do appium estao ok)
+
+
+Configurar:
+    - JAVA_HOME
+    - ANDROID_HOME
+
+    - Capabilities
+        Arc setup android  # cria um txt. para android (Capabilities para Android)
+
+
+
