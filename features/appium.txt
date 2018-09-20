@@ -1,7 +1,7 @@
 [caps]
 platformName = "Android"
 deviceName = "emulator-5554"
-app = "~/Desktop/AutMobile/apk/app-debug.apk"
+app = "~/Desktop/dojo_appium/apk/app-debug.apk"
 automationName = "UiAutomator2"
 noReset = true
 autoGrantPermissions = true

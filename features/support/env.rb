@@ -12,7 +12,7 @@ if ENV['PLATFORM'] == 'ios'
     Appium.promote_appium_methods Object
 
 elsif ENV['PLATFORM'] == 'android'
-    caps = Appium.load_appium_txt file: File.expand_path('~/Desktop/AutMobile/features/appium.txt', __FILE__), verbose: true
+    caps = Appium.load_appium_txt file: File.expand_path('~/Desktop/dojo_appium/features/appium.txt', __FILE__), verbose: true
     
     Appium::Driver.new(caps, true)
     Appium.promote_appium_methods Object
